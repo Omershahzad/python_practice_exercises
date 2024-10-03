@@ -1,0 +1,5 @@
+print("Hello")
+n1 = input("Hello PLeaSe enter number")
+n2 = input("Hello enter second numebr")
+sum = int(n1)+ int(n2)
+print("Your answer is ", sum)
